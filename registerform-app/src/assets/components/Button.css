@@ -1,0 +1,11 @@
+.btn{
+    background-color: rgb(60, 255, 0);
+    margin: 30px;
+    color: white;
+}
+#success{
+    background-color: green;
+}
+#danger{
+    background-color: red;
+}
